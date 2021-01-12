@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**LukNasc/LukNasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lucas, i'm fullstack developer.
 
-Here are some ideas to get you started:
+### Skills 🖥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React Native
+- React
+- NodeJS
+- Prisma 2
+- GraphQL
+- Android Developer
+- MongoDB
+
+Actually i'm work in GFX Consultoria as FullStack developer.
+i'm from Fortaleza - Ceará - Brazil
+
+have a nice day 👋
