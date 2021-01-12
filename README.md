@@ -12,6 +12,8 @@ My name is Lucas, i'm fullstack developer.
 - Android Developer
 - MongoDB
 
+among others...
+
 Actually i'm work in GFX Consultoria as FullStack developer.
 i'm from Fortaleza - Ceará - Brazil
 
