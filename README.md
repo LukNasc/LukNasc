@@ -14,7 +14,7 @@ My name is Lucas, i'm fullstack developer.
 
 among others...
 
-Actually i'm work in GFX Consultoria as FullStack developer.
+Actually i'm work in Capgemini as Frontend developer.
 i'm from Fortaleza - Ceará - Brazil
 
 have a nice day 👋
